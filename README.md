@@ -35,8 +35,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
   </a>
 
-  <br/>
-
   <!-- Machine Learning -->
   <h4 style="font-family: Arial, sans-serif; color: #333;">Machine Learning</h4>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
@@ -60,8 +58,6 @@
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
   </a>
-
-  <br/>
 
   <!-- Frameworks -->
   <h4 style="font-family: Arial, sans-serif; color: #333;">Frameworks</h4>
@@ -87,8 +83,6 @@
     <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/opengl.svg" alt="OpenGL" height="40"/>
   </a>
 
-  <br/>
-
   <!-- Databases -->
   <h4 style="font-family: Arial, sans-serif; color: #333;">Databases</h4>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
@@ -107,8 +101,6 @@
     <img src="https://www.vectorlogo.zone/logos/neo4j/neo4j-icon.svg" alt="Neo4j" width="40" height="40"/>
   </a>
 
-  <br/>
-
   <!-- Development Tools -->
   <h4 style="font-family: Arial, sans-serif; color: #333;">Development Tools</h4>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
@@ -123,8 +115,6 @@
   <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" alt="PyCharm" width="40" height="40"/>
   </a>
-
-  <br/>
 
   <!-- Mobile Development -->
   <h4 style="font-family: Arial, sans-serif; color: #333;">Mobile Development</h4>
