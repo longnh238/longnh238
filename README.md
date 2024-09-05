@@ -122,3 +122,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
   </a>
 </p>
+
+<hr />
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=longnh238&theme=nord_dark)
+
+
+
+
