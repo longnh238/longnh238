@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hoang Long Nguyen</h1>
+<h1 align="center">Hi 👋, I am Hoang Long Nguyen</h1>
 <h3 align="center">A senior data scientist with over 10 years of experience in industrial and academic environments, including work in developed countries (South Korea, Norway, Canada) and a developing country (Vietnam). Known for excellent communication and strong leadership skills</h3>
 
 <h2 align="left">Connect with me</h2>
@@ -30,6 +30,9 @@
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
+    <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="JS" width="40" height="40"/>
   </a>
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
@@ -125,7 +128,7 @@
 
 <hr />
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=longnh238&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=longnh238&theme=nord_dark)
 
 
 
