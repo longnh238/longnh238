@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Hoang Long Nguyen</h1>
-<h3 align="center">A senior data scientist with over 10 years of experience in industrial and academic environments, including work in developed countries (South Korea, Norway, Canada) and a developing country (Vietnam). Known for excellent communication and strong leadership skills</h3>
+<h3 align="center">A senior data scientist with over 10 years of experience in industrial and academic environments across various countries, including Vietnam, South Korea, Norway, and Canada. Known for excellent communication and strong leadership skills</h3>
 
 <h2 align="left">Connect with me</h2>
 <p align="left">
