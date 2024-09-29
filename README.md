@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Hoang Long Nguyen</h1>
-<h3 align="center">A senior data scientist with over 10 years of experience in industrial and academic environments across various countries, including Vietnam, South Korea, Norway, and Canada. Known for excellent communication and strong leadership skills</h3>
+<h3 align="center">Experienced Data Scientist with over 10 years of expertise in data analysis, machine learning, and natural language processing (NLP) across diverse environments, including academia and industry. Proficient in building and deploying scalable data solutions using tools like Python, TensorFlow, PyTorch, Scikit-learn, and SQL, with hands-on experience in big data. Skilled at transforming unstructured datasets into actionable insights that drive business outcomes, with a strong background in classification, clustering, and regression analysis. Proven track record of leading crossfunctional teams and delivering high-impact projects in AI-driven applications and web development</h3>
 
 <h2 align="left">Connect with me</h2>
 <p align="left">
