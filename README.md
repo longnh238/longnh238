@@ -129,6 +129,9 @@
 <hr />
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=longnh238&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=longnh238&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=longnh238&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=longnh238&theme=nord_dark&utcOffset=-7)
 
   <!-- <img src="https://github-profile-trophy.vercel.app/?username=longnh238&theme=juicyfresh&no-bg=true" /> -->
 
