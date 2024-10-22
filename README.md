@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I am Hoang Long Nguyen</h1>
 <h3 align="center">Experienced in data analysis, machine learning, and natural language processing (NLP) across diverse environments, including academia and industry. Proficient in building and deploying scalable data solutions using tools like Python, TensorFlow, PyTorch, Scikit-learn, and SQL, with hands-on experience in big data. Skilled at transforming unstructured datasets into actionable insights that drive business outcomes, with a strong background in classification, clustering, and regression analysis. Proven track record of leading crossfunctional teams and delivering high-impact projects in AI-driven applications and web development</h3>
 
-<h2 align="left">Connect with me</h2>
+<h2 align="left">Connect with Me</h2>
 <p align="left">
 <a href="https://linkedin.com/in/longnh238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="longnh238" height="30" width="40" /></a>
 </p>
 
-<h2 align="left">Languages and tools</h2>
+<h2 align="left">Languages and Tools</h2>
 <p align="left">
   <!-- Languages -->
   <h4 style="font-family: Arial, sans-serif; color: #333;">Languages</h4>
@@ -126,7 +126,7 @@
   </a>
 </p>
 
-<hr />
+<h2 align="left">GitHub Stats</h2>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=longnh238&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=longnh238&theme=nord_dark)
